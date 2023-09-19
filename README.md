@@ -1,4 +1,4 @@
-### test
+yo! i'm a canadian high school student doing full-stack development
 
 ## What I am building with
 - [TypeScript](https://www.typescriptlang.org/)
